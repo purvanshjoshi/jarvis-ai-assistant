@@ -32,3 +32,5 @@ pygetwindow>=0.0.9
 # Additional utilities
 requests>=2.28.0
 python-dotenv>=0.20.0
+# Performance & Optimization
+cachetools>=5.3.0
