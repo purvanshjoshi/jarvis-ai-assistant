@@ -162,4 +162,4 @@ If you find this useful:
 
 ---
 
-**Made with ❤️ by Purvansh Joshi | December 2025**
+**Made with ❤️ by Purvansh Joshi | December 2025**.
