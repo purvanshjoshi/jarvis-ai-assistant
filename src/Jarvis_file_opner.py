@@ -1,3 +1,13 @@
+"""
+File Opener Module for J.A.R.V.I.S AI Assistant
+
+This module provides file opening and management capabilities for the J.A.R.V.I.S system.
+It handles opening files, navigating through windows, and managing file operations.
+
+Author: Purvansh Joshi
+Date: 2025
+"""
+
 import os
 import subprocess
 import sys
