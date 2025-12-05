@@ -1,3 +1,18 @@
+"""
+Google Search Module for J.A.R.V.I.S AI Assistant
+
+This module provides web search functionality using Google Custom Search API.
+It enables the J.A.R.V.I.S system to perform intelligent web searches and retrieve relevant results.
+
+Requirements:
+    - Google Custom Search API key
+    - Search Engine ID (cx parameter)
+    - Python requests library
+
+Author: Purvansh Joshi
+Date: 2025
+"""
+
 import os
 import requests
 import logging
